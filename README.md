@@ -1,3 +1,5 @@
+https://ana-siddiqi.github.io/ma1805-finalproject/
+
 A Constellation of Technology is an interactive web project that explores the idea of memories and nostalgia. This project ties together the relationship that us as individuals have with technology. Almost as if technology is another family member because it has been there throughout every stage of life and has captured every moment. Therefore, people reflect on moments through their devices to recollect and reminisce on those special memories and share them with others. 
 
 I got the idea of this project whilst listening to a song by one of my favourite bands, Coldplay, specifically their song "A Sky Full of Stars" and I wanted to create a concept of a sky full of memories through stars. 
